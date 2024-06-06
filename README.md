@@ -1,4 +1,7 @@
-## Hi there 👋
+## Baum? 👍
+meu nome é Raphael
+- sou estudante do alura
+- estou me aperfeicoando na linguagem JavaScript
 
 <!--
 **RaphM15/RaphM15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
